@@ -18,6 +18,7 @@ AGENTEPRODUCCION/
 ├── langgraph.json       # Configuración para LangGraph Studio
 ├── pyproject.toml       # Dependencias y empaquetado
 └── uv.lock              # Bloqueo de versiones
+```
 
 ## Requisitos de instalacion
 
